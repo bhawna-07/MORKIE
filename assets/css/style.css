@@ -1189,6 +1189,7 @@ border-radius: 100%;
     align-items: center;
     text-align: center;
     gap: 20px;
+    padding-bottom: 40px ;
   }
   .bottombar p {
     font-size: 14px;
