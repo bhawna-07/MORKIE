@@ -282,7 +282,7 @@ p {
 /* SPECAIL EVENTS */
 
 .slider_text h2 {
-  font-size: 20px;
+  font-size: 30px;
   color: var(--color-white);
   font-weight: var(--font-bold);
 }
@@ -298,6 +298,7 @@ p {
 .card_content p {
   color: lightgrey;
   margin-bottom: 40px;
+  line-height: 30px;
 }
 .card_content a {
   color: var(--color-white);
@@ -1080,7 +1081,7 @@ border-radius: 100%;
   .nft_card_wrapper {
     margin-top: 60px;
     margin-bottom: 70px;
-    gap: 20px;
+    gap: 40px;
   }
   .nft_card_container {
     gap: 40px;
